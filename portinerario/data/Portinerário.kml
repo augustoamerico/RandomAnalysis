@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Portinerário</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>cst</name>
+			<Placemark>
+				<name>São Bento</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.610991399999989,41.1452263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sé do Porto</name>
+				<description><![CDATA[Igreja<br><br>Horário: Das 09:00h-19:00h<br>Dia de encerramento: Natal e Páscoa (tarde)<br>Museu e Claustros<br><br>Horário de Verão: Das 09:00h-18:30h<br>Dia de encerramento: Natal e Páscoa (tarde); Domingo e feriados religiosos (manhã)]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.611183600000004,41.142826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aliados</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.6112106,41.1486034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja de Santa Clara</name>
+				<description><![CDATA[http://www.visitporto.travel/visitar/paginas/viagem/DetalhesPOI.aspx?POI=983<br><br>Encerrada temporariamente para obras de recuperação. Qualquer contacto deve ser dirigido à Diocese do Porto (Padre Pais ou Padre Américo)]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.609221100000013,41.14252090000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Majestic Café</name>
+				<description><![CDATA[ABERTO DE SEGUNDA A SÁBADO DAS 9H30 ÀS 24H]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.606579499999953,41.1472382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rua de Santa Catarina</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.604749200000015,41.15347750000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAPELA DAS ALMAS</name>
+				<description><![CDATA[seg, ter, sab 7:30-13:00/15:30-19:00 qua, qui, sex 7:30-19:00 dom 7:30-13:00/18:00-19:00]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.605602699999963,41.1499247,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mercado do Bolhão</name>
+				<description><![CDATA[Ir durante uma manhã: está aberto tipicamente das 7 ás 17 durante a semana, fechado ao domingo e sabado até Às 13]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.6061144,41.1498839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre dos Clérigos</name>
+				<description><![CDATA[Bilhete Diurno (09h00 - 19h00)]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.614598500000056,41.1456753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja dos Carmelitas</name>
+				<description><![CDATA[seg-sex 7:30-19:00 sab, dom,feriados religiosos 9:00-18:45]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.61651059999997,41.1473801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jardins do Palácio de Cristal</name>
+				<description><![CDATA[08:00–21:00 todos os dias]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.62563769999997,41.1483403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja Monumento de São Francisco</name>
+				<description><![CDATA[Jul. Ago Set. - 09H00 / 20H00 ]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.615717300000028,41.1410111,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palácio da Bolsa</name>
+				<description><![CDATA[HORÁRIO DE VERÃO (abril - outubro)<br>09h00 - 18h30 (segunda a domingo)]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.615815200000043,41.1413452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ponte Luís I</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.609448499999985,41.1399589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serra do Pilar</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.6075091,41.138395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cais Da Ribeira</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.6119509,41.1405442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cais De Gaia</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.6210918,41.1388151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Yeatman Oporto</name>
+				<description><![CDATA[Pagas o olho do cu por um café, mas com sorte o karma é teu amigo e vem-te um olho do cu também]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.613011000000029,41.133346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caves Taylor</name>
+				<description><![CDATA[Price per person: €12<br><br>No reservation is necessary.<br><br>Opening hours: Monday to Sunday: 10am to 6pm.]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.6142898,41.1339911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa de Serralves</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.65649099999996,41.1595538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa da Música</name>
+				<description><![CDATA[http://www.casadamusica.com/pt/agenda/2016/08/27-agosto-2016-filho-da-mae/2200/?lang=pt#tab=0<br><br>dia 27 Ago há Filho da Mãe :v]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.628282000000013,41.16057499999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lello Editores, Lda.</name>
+				<description><![CDATA[Paga-se para entrar<br><br>Opening hours:<br>Monday to Friday: 10am – 7.30pm<br>Saturday: 10am – 7pm<br>Sunday: 11am – 7pm]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.613586700000042,41.14574229999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coliseu do Porto</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.605416999999989,41.1469917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Café Santiago</name>
+				<description><![CDATA[Francesinha!!<br><br>Seg-Sáb:	<br>11:00 – 23:00]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.604908900000055,41.1465384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cufra</name>
+				<description><![CDATA[Francesinha!!<br><br>fecha as segundas, ter-dom 12h as 02h]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.652786200000037,41.1620528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Verso Em Pedra</name>
+				<description><![CDATA[Francesinha!! Foi a melhor que o antóino já comeu!<br><br>todos os dias das 11h as 2h]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.618428999999992,41.14155290000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museu Serralves</name>
+				<description><![CDATA[fecha às segundas]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.659666099999981,41.1597898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teatro Nacional São João</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.607421899999963,41.1446735,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centro Português de Fotografia</name>
+				<description><![CDATA[segunda a sexta-feira<br>10h00 - 18h00<br><br>sábados, domingos e feriados <br>15h00 - 19h00]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.61586950000003,41.1447289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tasca da Badalhoca</name>
+				<description><![CDATA[Bifanas são bouas cmó caralho!<br>Horário:Seg-Sex 09-14 15.30-20, Sáb 09-14]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.6555472,41.1664288,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Galeria de Paris</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.614028599999983,41.14775409999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante Varanda do Sol</name>
+				<description><![CDATA[Travessona de massa! O Antóino nunca comeu tanta massa e tão boa como aqui!<br>tá aberta todos os dias]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.677611399999932,41.1517104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universidade do Porto</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.615699800000016,41.14654790000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Café Piolho/Âncora d'Ouro</name>
+				<description><![CDATA[Pit stop dos estudantes para beber]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<Point>
+					<coordinates>-8.61650659999998,41.14692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teatro Municipal Rivoli</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.609535400000027,41.1477497,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rua de Miguel Bombarda</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-8.620874100000037,41.1496522,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>cst</name>
+		</Folder>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
